@@ -1,0 +1,44 @@
+{
+  "name": "burakboz/mobiliz",
+  "description": "Mobiliz Tracking Systems www.mobiliz.com.tr php 7.x, 8.x compatible incomplete API implementation",
+  "license": "MIT",
+  "type": "library",
+  "keywords": [
+    "mobiliz",
+    "library",
+    "package",
+    "tracking",
+    "api"
+  ],
+  "authors": [
+    {
+      "name": "Burak Boz",
+      "email": "info@burakboz.net",
+      "homepage": "https://www.burakboz.net"
+    }
+  ],
+  "authorEmail": "info@burakboz.net",
+  "authorHoldsCopyright": true,
+  "authorName": "Burak Boz",
+  "authorUrl": "https://www.burakboz.net",
+  "githubUsername": "burakboz",
+  "packageName": "burakboz/mobiliz",
+  "packageNamespace": "BurakBoz\\Mobiliz",
+  "projectName": "Mobiliz API",
+  "securityPolicy": true,
+  "securityPolicyContactEmail": "security@burakboz.net",
+  "securityPolicyContactFormUrl": null,
+  "skipPrompts": true,
+  "vendorName": "burakboz",
+  "require": {
+    "php": ">=7.4",
+    "ext-curl": "*"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "BurakBoz\\Mobiliz\\": "src/"
+    }
+  }
+}
