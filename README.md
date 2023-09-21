@@ -69,7 +69,7 @@ $activities = $client->activityLast();
 14. `reportCanBusDetail`
 15. `reportActivityDetail`
 
-For more detailed usage instructions, please refer to the [examples](https://github.com/burakboz/mobiliz/examples/examples.php).
+For more detailed usage instructions, please refer to the [examples](https://github.com/BurakBoz/mobiliz/tree/main/examples/examples.php).
 
 ## Contributing
 
